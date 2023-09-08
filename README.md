@@ -6,4 +6,8 @@ It recieves a string as an input and returns the predicted category and the conf
  - 1 ; 'brand'
  - 2 : 'category'
 
+### Example:
+input : <i>{"text":"sams club"}</i><br>
+output : <i>{'prediction':0, 'confidence': 0.993}</i>
+<br>
 All specifications and context of this service can be found <a href="https://github.com/federico2001/QueryTypeDetector/tree/main">in this repository</a>.
