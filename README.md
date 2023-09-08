@@ -5,3 +5,5 @@ It recieves a string as an input and returns the predicted category and the conf
  - 0 : 'retailer'
  - 1 ; 'brand'
  - 2 : 'category'
+
+All specifications and context of this service can be found <a href="https://github.com/federico2001/QueryTypeDetector/tree/main">here</a>.
